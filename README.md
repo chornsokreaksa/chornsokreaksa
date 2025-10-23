@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Apple, from Earth</h2>
+<h2 align="left">Hi 👋! My name is Reaksa and I'm a cybersecurity Enthusiast, from K2-2016-BLG-0005Lb</h2>
 
 ###
 
@@ -12,8 +12,8 @@
 
 ###
 
-<!-- Profile Picture GIF -->
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBrZGZlMjk0Y3piOHY4cHY4ZHdmeG9jNHplN3lua2VvbjcybWdncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MQZOpkiAG6cVFHU6Zg/giphy.gif"  />
+<!-- Profile Picture GIF (Solar System) -->
+<img align="right" height="150" src="https://media.giphy.com/media/z5MGWCKNsyDdK/source.gif"  />
 
 ###
 
@@ -40,5 +40,13 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
 </div>
+
+###
+
+## 🌌 Universe of Projects
+
+- 🪐 **Food Detection Planet** – AI that classifies meals  
+- 🌍 **Traffic Violation Earth** – Detects rule-breaking vehicles  
+- 🌞 **Engagement Sun** – Classroom posture & attention analysis  
 
 ###
