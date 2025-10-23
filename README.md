@@ -1,10 +1,12 @@
 <div align="center">
   
 <!-- Animated Cosmic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Reaksa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Rookie%20%7C%20Cosmic%20Explorer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=chornsokreaksa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Rookie%20%7C%20Cosmic%20Explorer&descAlignY=55&descSize=20"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Cybersecurity+Rookie+%F0%9F%94%90;Cosmic+Explorer+%F0%9F%8C%A0;Learning+%26+Growing+%F0%9F%8C%B1;Future+Security+Pro+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Cybersecurity+Rookie+%F0%9F%94%90;Cosmic+Explorer+%F0%9F%8C%A0;Learning+%26+Growing+%F0%9F%8C%B1;Future+Security+Pro+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <!-- Cosmic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -18,17 +20,17 @@
 **🛡️ Cybersecurity Journey**
 
 🔰 Currently Learning:
-- Network Security Basics
+- Network Security Basics  
 - Ethical Hacking Fundamentals  
-- Linux & Command Line
-- CTF Challenges
+- Linux & Command Line  
+- CTF Challenges  
 
 🎯 Goals:
-- Complete Security+ Cert
-- Build Home Lab
-- Join Bug Bounty Programs
+- Complete Security+ Cert  
+- Build Home Lab  
+- Join Bug Bounty Programs  
 
-💭 Mindset: *"I'm still standing"*
+💭 Mindset: *"Every expert was once a beginner"*
 
 </td>
 <td width="50%">
@@ -39,8 +41,6 @@
 </td>
 </tr>
 </table>
-
-
 
 ## 🌠 Tech Constellation
 
@@ -66,30 +66,3 @@
          *    .    ╚══════════════════╝    *
   *                      ║║║║
     .        *           ████         .      *
-```
-
-🔐 **Rookie Wisdom**: *"Don't be sad, being sad is bad"*
-
-## 🛸 Connect Across The Galaxy
-
-<p align="center">
-  <i>🌟 Open to connect and collaborate! 🌟</i>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redapple&label=Cosmic+Visitors&color=6366f1&style=for-the-badge" alt="Profile views" />
-</p>
-
-<!-- Cosmic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
----
-
-<p align="center">
-  <i>⭐ "Exploring the universe one commit at a time" ⭐</i>
-  <br/>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
-
-</div>
