@@ -19,13 +19,13 @@
 ```python
 class CosmicSecurityExpert:
     def __init__(self):
-        self.name = "chornsokreaksa"
-        self.role = "Cybersecurity Specialist"
+        self.name = "Reaksa"
+        self.role = "Cybersecurity rookie"
         self.interests = ["Cosmic Exploration 🌌"]
         
     def get_skills(self):
         return {
-            "security": ["Penetration Testing", "OSINT"],
+            "security": ["Blue hat", "OSINT"],
             "cosmic_passion": ["Space Tech", "Astronomy"],
             "mindset": "Think like stars, secure like shields"
         }
