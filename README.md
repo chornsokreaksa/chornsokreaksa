@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Reaksa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Rookie%20%7C%20Cosmic%20Explorer&descAlignY=55&descSize=20"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Cybersecurity+Rookie+%F0%9F%94%90;Cosmic+Explorer+%F0%9F%8C%A0;Learning+%26+Growing+%F0%9F%8C%B1;Future+Security+Pro+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Cybersecurity+Rookie+%F0%9F%94%90;Cosmic+Explorer+%F0%9F%8C%A0;Learning+%26+Growing+%F0%9F%8C%B1;Future+Security+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Cosmic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,kali,burpsuite&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,nodejs,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
 </p>
 
 ## 🔭 Cosmic Metrics
@@ -68,7 +68,7 @@
     .        *           ████         .      *
 ```
 
-🔐 **Rookie Wisdom**: *"Being sad is bad."*
+🔐 **Rookie Wisdom**: *"what in the world."*
 
 ## 🛸 Connect Across The Galaxy
 
@@ -78,7 +78,7 @@
 
 <!-- Custom GIF and Message -->
 <div align="center">
-  <img src="https://i.imgur.com/YourGifHere.gif" width="400" alt="Yuuri GIF"/>
+  <img src="https://media.gifdb.com/hit-stick-girls-last-tour-myxb25f87q78pezb.gif" width="400" alt="Yuuri GIF"/>
   <br/>
   <h3>✨ I am so Yuuri ✨</h3>
 </div>
