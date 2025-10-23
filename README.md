@@ -18,26 +18,6 @@
 
 ---
 
-### 🎮 Tech Arcade
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-</div>
-
----
-
-## 🌌 Retro Projects Galaxy
-
-- 🕹️ **Pixel Planet** – Food Detection AI with an arcade twist  
-- 🌴 **Neon Streets** – Traffic Violation Detection in vaporwave style  
-- 💾 **CRT Vision** – Engagement analysis with retro scanline overlays  
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="200" alt="retro sunset gif"/>
 </p>
