@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Cosmic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=chornsokreaksa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Rookie%20%7C%20Cosmic%20Explorer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Reaksa&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Rookie%20%7C%20Cosmic%20Explorer&descAlignY=55&descSize=20"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -56,13 +56,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chornsokreaksa&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=F59E0B&fire=F59E0B&currStreakLabel=6366F1"/>
 </div>
 
-<!-- Custom GIF + Caption -->
-<p align="center">
-  <img src="https://media.gifdb.com/hit-stick-girls-last-tour-myxb25f87q78pezb.gif" height="200" alt="Yuuri gif"/>
-  <br/>
-  <b>I'm so Yuuri</b>
-</p>
-
 ## 🌌 Current Mission Status
 ```ascii
     .       *        .       .          *
@@ -73,3 +66,17 @@
          *    .    ╚══════════════════╝    *
   *                      ║║║║
     .        *           ████         .      *
+
+
+
+
+
+
+
+
+<!-- Custom GIF + Caption -->
+<p align="center">
+  <img src="https://media.gifdb.com/hit-stick-girls-last-tour-myxb25f87q78pezb.gif" height="200" alt="Yuuri gif"/>
+  <br/>
+  <b>I'm so Yuuri</b>
+</p>
