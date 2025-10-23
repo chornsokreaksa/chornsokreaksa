@@ -45,7 +45,7 @@
 ## 🌠 Tech Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,kali,burpsuite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,kali&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
 </p>
