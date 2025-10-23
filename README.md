@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Reaksa and I'm an noobie, from Cambodia</h2>
+<h2 align="left">Hi 👋! My name is Apple, from Earth</h2>
 
 ###
 
