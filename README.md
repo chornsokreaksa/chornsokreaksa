@@ -70,13 +70,3 @@
 
 
 
-
-
-
-
-<!-- Custom GIF + Caption -->
-<p align="center">
-  <img src="https://media.gifdb.com/hit-stick-girls-last-tour-myxb25f87q78pezb.gif" height="200" alt="Yuuri gif"/>
-  <br/>
-  <b>I'm so Yuuri</b>
-</p>
