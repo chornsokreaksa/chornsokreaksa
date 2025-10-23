@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Reaksa (Red Apple) 👋
 
-<!--
-**chornsokreaksa/chornsokreaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&lines=AI+Explorer;Computer+Vision+Projects;Always+Learning)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 🔥 GitHub Stats
+![Chorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Contribution Snake
+![GitHub Snake](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
