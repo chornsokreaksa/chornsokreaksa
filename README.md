@@ -28,7 +28,7 @@
 - Build Home Lab
 - Join Bug Bounty Programs
 
-💭 Mindset: *"Every expert was once a beginner"*
+💭 Mindset: *"I'm still standing"*
 
 </td>
 <td width="50%">
