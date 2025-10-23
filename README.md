@@ -69,18 +69,3 @@
 ```
 
 🔐 **Rookie Wisdom**: *"what in the world."*
-
-## 🛸 Connect Across The Galaxy
-
-<p align="center">
-  <i>🌟 Open to connect and collaborate! 🌟</i>
-</p>
-
-<!-- Custom GIF and Message -->
-<div align="center">
-  <img src="https://media.gifdb.com/hit-stick-girls-last-tour-myxb25f87q78pezb.gif" width="400" alt="Yuuri GIF"/>
-  <br/>
-  <h3>✨ I am so Yuuri ✨</h3>
-</div>
-
-</div>
