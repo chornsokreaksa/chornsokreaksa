@@ -1,131 +1,148 @@
-<!-- README.md for GitHub profile: chornsokreaksa -->
-<div align="center">
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Apple | Cybersecurity Enthusiast</title>
+<style>
+:root{
+  --bg1:#02021a;
+  --bg2:#08102a;
+  --accent:#6fb3ff;
+  --text:#eaf6ff;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial;
+  background:linear-gradient(180deg,var(--bg1),var(--bg2));
+  color:var(--text);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:24px;
+}
+.scene{
+  width:100%;
+  max-width:980px;
+  border-radius:12px;
+  overflow:hidden;
+  position:relative;
+  box-shadow:0 10px 30px rgba(0,0,0,0.6);
+  background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));
+}
+.stars{
+  width:100%;
+  height:220px;
+  display:block;
+  background:radial-gradient(1000px 200px at 20% 20%,rgba(111,179,255,0.06),transparent 8%),
+             radial-gradient(800px 180px at 80% 60%,rgba(255,255,255,0.02),transparent 20%);
+}
+.star-layer{will-change:transform}
+.layer-slow{animation:driftLeft 36s linear infinite}
+.layer-mid{animation:driftLeft 18s linear infinite}
+.layer-fast{animation:driftLeft 9s linear infinite}
+@keyframes driftLeft{
+  from{transform:translateX(0)}
+  to{transform:translateX(-1200px)}
+}
+.planet-group{transform-origin:900px 220px;animation:spin 28s linear infinite}
+@keyframes spin{
+  from{transform:translate(900px,220px) rotate(0deg)}
+  to{transform:translate(900px,220px) rotate(360deg)}
+}
+.text{
+  padding:18px 24px;
+  display:flex;
+  align-items:center;
+  gap:18px;
+}
+.text h1{
+  font-size:1.25rem;
+  margin-bottom:6px;
+  color:var(--text);
+}
+.text p{margin:0;color:#cfefff}
+.cta{
+  display:inline-block;
+  margin-left:auto;
+  padding:10px 14px;
+  background:linear-gradient(90deg,var(--accent),#95d1ff);
+  color:#02102a;
+  font-weight:600;
+  text-decoration:none;
+  border-radius:8px;
+  transition:transform 140ms ease;
+}
+.cta:active{transform:translateY(1px)}
+</style>
+</head>
+<body>
+<div class="scene">
+  <svg class="stars" viewBox="0 0 1200 400" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <defs>
+      <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
 
-<!-- ===== Header: Animated starfield + comet ===== -->
-<svg viewBox="0 0 900 220" width="100%" height="200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" style="background: linear-gradient(180deg,#020111 0%, #2b0b3a 100%); border-radius: 12px;">
-  <defs>
-    <radialGradient id="g1"><stop offset="0" stop-color="#fff" stop-opacity="0.95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
-    <filter id="blur"><feGaussianBlur stdDeviation="1.2" /></filter>
-    <g id="star">
-      <circle cx="0" cy="0" r="1.6" fill="url(#g1)" />
+    <g class="star-layer layer-slow">
+      <circle cx="50" cy="30" r="1.8" fill="#ffffff" opacity="0.9"/>
+      <circle cx="150" cy="90" r="1.2" fill="#f2f9ff" opacity="0.8"/>
+      <circle cx="320" cy="50" r="1.6" fill="#eaf6ff" opacity="0.85"/>
+      <circle cx="500" cy="120" r="1.1" fill="#ffffff" opacity="0.8"/>
+      <circle cx="700" cy="40" r="2.0" fill="#fff9f2" opacity="0.95"/>
+      <circle cx="920" cy="170" r="1.3" fill="#eaf6ff" opacity="0.8"/>
     </g>
-    <linearGradient id="tail" x1="0" x2="1">
-      <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
 
-  <!-- random-ish stars (static: GitHub caches but still looks nice) -->
-  <g id="stars" fill="#fff" fill-opacity="0.9" transform="translate(0,0)">
-    <use href="#star" x="40"  y="22"  style="opacity:0.9; transform-origin:40px 22px;">
-      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" repeatCount="indefinite" begin="0s"/>
-    </use>
-    <use href="#star" x="110" y="80" style="opacity:0.7;">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite" begin="0.3s"/>
-    </use>
-    <use href="#star" x="200" y="30" style="opacity:0.8;">
-      <animate attributeName="opacity" values="0.1;1;0.1" dur="5s" repeatCount="indefinite" begin="0.7s"/>
-    </use>
-    <use href="#star" x="300" y="140" style="opacity:0.6;">
-      <animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.2s" repeatCount="indefinite" begin="0.4s"/>
-    </use>
-    <use href="#star" x="420" y="50" style="opacity:0.7;">
-      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" repeatCount="indefinite" begin="0.1s"/>
-    </use>
-    <use href="#star" x="600" y="120" style="opacity:0.8;">
-      <animate attributeName="opacity" values="0.1;0.95;0.1" dur="6s" repeatCount="indefinite" begin="0.8s"/>
-    </use>
-    <use href="#star" x="780" y="30" style="opacity:0.7;">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.8s" repeatCount="indefinite" begin="0.5s"/>
-    </use>
-  </g>
-
-  <!-- twinkling large planet / moon -->
-  <g transform="translate(140,110)">
-    <circle cx="0" cy="0" r="28" fill="#c8c8ff" fill-opacity="0.06" />
-    <circle cx="0" cy="0" r="16" fill="#bfc4ff" fill-opacity="0.16">
-      <animate attributeName="r" values="15;17;15" dur="6s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- comet (moving across) -->
-  <g id="comet" transform="translate(-120,40)" opacity="0.95">
-    <g transform="rotate(-12)">
-      <ellipse cx="0" cy="0" rx="40" ry="6" fill="url(#tail)" />
-      <circle cx="50" cy="0" r="3.8" fill="#fff" />
+    <g class="star-layer layer-mid">
+      <circle cx="120" cy="200" r="1.4" fill="#ffffff"/>
+      <circle cx="260" cy="70" r="1.7" fill="#fff6e6"/>
+      <circle cx="420" cy="220" r="1.5" fill="#eaf6ff"/>
+      <circle cx="610" cy="160" r="2.2" fill="#fff"/>
+      <circle cx="860" cy="100" r="1.2" fill="#fff"/>
     </g>
-    <animateTransform attributeName="transform" type="translate"
-      values="-120,40; 980,-40" dur="6.2s" repeatCount="indefinite" />
-  </g>
 
-  <!-- main title (centered) -->
-  <foreignObject x="0" y="40" width="900" height="140">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-      <h1 style="margin:0;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto;letter-spacing:1px;font-size:34px;">
-        ✨ chornsokreaksa — cosmic coder ✨
-      </h1>
+    <g class="star-layer layer-fast">
+      <circle cx="200" cy="20" r="1.0" fill="#fff"/>
+      <circle cx="340" cy="140" r="1.0" fill="#fff"/>
+      <circle cx="760" cy="60" r="1.3" fill="#fff"/>
+      <circle cx="1080" cy="200" r="1.1" fill="#fff"/>
+    </g>
 
-      <p style="margin:8px 0 0 0;color:#d8c8ff;opacity:0.95;font-family:ui-sans-serif,system-ui,Segoe UI,Roboto;font-size:14px;">
-        <span style="white-space:pre"> </span>
-        <span style="display:inline-block;vertical-align:middle;">
-          <span style="border-right:2px solid rgba(255,255,255,0.6);padding-right:8px;animation: typing 3s steps(30,end) infinite;">
-            aligning code with constellations...
-          </span>
-        </span>
-      </p>
+    <g class="planet-group" transform="translate(900,220)">
+      <circle class="orbit" r="90" fill="none" stroke="#ffffff22" stroke-width="1"/>
+      <g class="planet" transform="translate(0,-90)">
+        <circle r="22" fill="#6fb3ff"/>
+        <circle r="22" fill="url(#g1)" opacity="0.18"/>
+      </g>
+    </g>
 
-      <style>
-        @keyframes typing { 0% { width:0 } 50% { width:260px } 100% { width:0 } }
-      </style>
-    </div>
-  </foreignObject>
-</svg>
+    <g class="shoot" opacity="0.0">
+      <path d="M-40 60 Q 60 40 140 30" stroke="#fff" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    </g>
+  </svg>
 
-</div>
-
-<!-- ===== Profile section (HTML inside markdown) ===== -->
-<div align="center" style="margin-top:14px;">
-
-<p align="center" style="font-size:15px; margin:6px 0 12px 0;">
-  Hi — I'm <strong>Reaksa</strong> (aka <code>@chornsokreaksa</code>) — an obsessive stargazer & developer.  
-  I build microservices, tame clouds, and read star charts like bug reports.
-</p>
-
-<!-- Skill badges (simple emoji + text) -->
-<p>
-  🚀 <strong>Tech:</strong> Node.js · Python · Docker · AWS · MongoDB &nbsp; • &nbsp;
-  🧭 <strong>Focus:</strong> microservices · infra · automation
-</p>
-
-<!-- Animated project cards using CSS-only hover (works in GitHub flavor to some extent) -->
-<div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:16px;">
-  <div style="width:250px;border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));backdrop-filter:blur(4px);box-shadow:0 8px 30px rgba(20,10,40,0.35);transition:transform .35s;transform-origin:center;">
-    <h3 style="margin:4px 0 6px 0;color:#e8dfff;">🌌 Microservices</h3>
-    <p style="margin:0 0 8px 0;color:#cfc7ef;font-size:13px;">APIs that behave like constellations: decoupled, observable, resilient.</p>
-    <a href="#" style="font-size:13px;text-decoration:none;color:#fff;padding:6px 10px;border-radius:8px;background:linear-gradient(90deg,#6d28d9,#9f7aea);display:inline-block;">Explore →</a>
+  <div class="text">
+    <h1>Apple</h1>
+    <p>Cybersecurity Enthusiast</p>
+    <a class="cta" href="https://github.com/chornsokreaksa">View Projects</a>
   </div>
-
-  <div style="width:250px;border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));backdrop-filter:blur(4px);box-shadow:0 8px 30px rgba(20,10,40,0.35);transition:transform .35s;transform-origin:center;">
-    <h3 style="margin:4px 0 6px 0;color:#e8dfff;">☁️ Cloud & Infra</h3>
-    <p style="margin:0 0 8px 0;color:#cfc7ef;font-size:13px;">Docker, AWS, k8s patterns & deployment pipelines — production-ready.</p>
-    <a href="#" style="font-size:13px;text-decoration:none;color:#fff;padding:6px 10px;border-radius:8px;background:linear-gradient(90deg,#07c;#6d28d9);display:inline-block;">Infra →</a>
   </div>
-
-  <div style="width:250px;border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));backdrop-filter:blur(4px);box-shadow:0 8px 30px rgba(20,10,40,0.35);transition:transform .35s;transform-origin:center;">
-    <h3 style="margin:4px 0 6px 0;color:#e8dfff;">🔭 Research</h3>
-    <p style="margin:0 0 8px 0;color:#cfc7ef;font-size:13px;">Security, small ML tools, and astro-inspired side projects.</p>
-    <a href="#" style="font-size:13px;text-decoration:none;color:#fff;padding:6px 10px;border-radius:8px;background:linear-gradient(90deg,#9f7aea,#06b);display:inline-block;">Read →</a>
-  </div>
-</div>
-
-</div>
-
-<!-- ===== Footer with stats & socials ===== -->
-<div align="center" style="margin-top:18px;">
-  <!-- GitHub stats (uses third-party service - keep if you want dynamic images) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chornsokreaksa&show_icons=true&theme=dark" alt="chornsokreaksa github stats" style="max-width:100%;border-radius:8px;margin-top:10px;" />
-
-  <p style="margin-top:10px;font-size:13px;color:#bfb3ff;">
-    Connect with me — <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> • <a href="https://twitter.com/" target="_blank">X</a> • <a href="mailto:your@email.com">Email</a>
-  </p>
-</div>
+<script>
+(function(){
+  const shoot=document.querySelector('.shoot');
+  function fire(){
+    shoot.style.opacity='1';
+    shoot.animate(
+      [{opacity:1,transform:'translateX(0)'},{opacity:0,transform:'translateX(400px)'}],
+      {duration:1100,easing:'cubic-bezier(0.22,0.88,0.31,1)'}
+    );
+    setTimeout(()=>shoot.style.opacity='0',1100);
+  }
+  setInterval(()=>{if(Math.random()>0.7)fire();},2500);
+})();
+</script>
+</body>
+</html>
